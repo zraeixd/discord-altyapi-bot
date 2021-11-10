@@ -35,7 +35,7 @@ exports.conf = {
 
 exports.help = {
   name: 'ban',
-  description: 'Belirttiğiniz kişiyi sunucudan yasaklar.',
+  description: 'Belirttiğiniz kişiyi sunucumuzdan yasaklar.',
   usage: 'ban <@kullanıcı veya id> <sebep>',
 
 };
