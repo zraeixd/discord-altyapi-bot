@@ -21,7 +21,7 @@ exports.run = async(client, msg, args) => {
         return msg.channel.send(botembed)
       } catch (err) {
         const embed = new Discord.MessageEmbed()
-            .addField(`Sunucuda Bulunan Emojiler`, 'Üzgünüm ama sunucunuzda ya çok fazla emoji bulunuyor ya da hiç emoji bulunmuyor. Bunları gösteremiyorum. Discord buna izin vermiyor.')
+            .addField(`Sunucuda Bulunan Emojiler`, 'Üzgünüz ama sunucunuzda ya çok fazla emoji bulunuyor ya da hiç emoji bulunmuyor. Bunları gösteremiyorum. Discord sistemi buna izin vermiyor.')
             .setColor('RED')
           .setFooter('Bu komutu kullanan kullanıcı ' + msg.author.tag, msg.author.avatarURL())
             .setTimestamp()
@@ -29,7 +29,7 @@ exports.run = async(client, msg, args) => {
                               
     }
 }
-//GNARGE BOT ALTYAPISIN'DAN BU DOSYAYA AKTARILMIŞTIR!
+// Bu Komut Tamamen Zraei'e Aittir, Kesinlikle Çalıntı Veya Kopya Değildir.
 exports.conf = {
  aliases: ['emoji-liste'],
  permLevel: 0,
