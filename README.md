@@ -1,28 +1,12 @@
-Bot Altyapı Projesine Hoşgeldin!
+Zraei'nin Discord Bot Altyapılarını Dilediğiniz Gibi Ücretsiz Kullanabilirsiniz.
 =================
 Merhaba Arkadaşlar Bu Altyapı 2018 Yılında Yapılmış 2021 Yılında İse Gerekli Düzeltmeleri Yapılmıştır. Bu Altyapı Discord.js v12 Sürümünü Artık Desteklemektedir! Kolaylıkla Kullanabilirsiniz!
 
-[Resmi Discord Sunucumuz](https://discord.gg/Zwr4MqyKrC)
+[Resmi Discord Sunucumuz](https://discord.gg/Strong)
 
-[Resmi Youtube Kanalımız](https://www.youtube.com/channel/UCVRhrcoG6FOvHGKehYtvKHg?view_as=subscriber)
+[Resmi Twitter Hesabım](https://www.twitter.com/zraeix)
 
-[Resmi İnstagram Hesabımız](https://www.instagram.com/emirhansarac06/)
-
-Diğer Altyapılar!
-=================
-[Ayarlanabilen Emoji ile Rol Verme Altyapısı](https://www.youtube.com/watch?v=c715ki9tV8g)
-
-[Kayıt Botu Altyapısı](https://www.youtube.com/watch?v=0ciAxO0k35g)
-
-[Müzik Botu Altyapısı](https://youtu.be/tJIDkr2gtpQ)
-
-[Davet Botu Altyapısı](https://www.youtube.com/watch?v=FsYR6egP0PU)
-
-[Captcha Botu Altyapısı](https://youtu.be/3UQMNEuLY64)
-
-[Slash Bot Altyapısı](https://youtu.be/ZKjBYsFnYls)
-
-[Yönetim Panelli Bot Altyapısı](https://github.com/EmirhanSarac/discord-bot-dashboard)
+[Resmi Instagram Hesabım](https://www.instagram.com/merttvarli)
 
 Basit Hatalar ve Çözümleri!
 =================
